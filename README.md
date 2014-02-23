@@ -2,6 +2,7 @@ Blank-Node
 ==========
 
 Blank Node Project with express.io
+
 Notes (This project was created using express --ejs instead of jade.
 
 Directions:
